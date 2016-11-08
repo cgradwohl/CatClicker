@@ -1,0 +1,15 @@
+#cat-pic{
+  margin: 5%;
+}
+
+#click-count1-div{
+  position: fixed;
+  left: 200px;
+  top: 100px;
+}
+
+#click-count2-div{
+  position: fixed;
+  top: 250px;
+  left: 200px;
+}
